@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalpa Mohapatra</h1>
-<h3 align="center">An inquisitive and passionate learner from India who wants to explore the world of Machine learning and Deep learning to the fullest.</h3>
+<h3 align="center">An inquisitive and passionate learner from India who wants to explore the world of Machine learning, MLOps, Deep learning, Generative AI and likewise to the fullest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spitthunder&label=Profile%20views&color=0e75b6&style=flat" alt="spitthunder" /> </p>
 
